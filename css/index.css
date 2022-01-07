@@ -209,6 +209,21 @@ body {
     }
 }
 
+.creator {
+    text-align: center;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 1.4em;
+    text-align: center;
+    margin-top: 50px;
+    color: #B9BDCF;
+}
+
+.username {
+    font-weight: 700;
+    text-decoration: underline;
+}
+
 @media screen and (min-width: 481px) and (max-width: 768px) {
     body {
         background-color: red;
