@@ -40,10 +40,9 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Demo: https://imdadadelabou.github.io/my-gallery-devChallenges/
+- During this challenge I mainly practice the notion of **CSS-GRID**. It was fun and amusing, I learned a lot.
+
 
 ### Built With
 
