@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](<img src="/screenshots/view.png"/>)
+<img src="/screenshots/view.png"/>
 
 - Demo: https://imdadadelabou.github.io/my-gallery-devChallenges/
 - During this challenge I mainly practice the notion of **CSS-GRID**. It was fun and amusing, I learned a lot.
